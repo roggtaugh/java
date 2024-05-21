@@ -9,6 +9,6 @@ public class Swap{
         int c =a;
         a=b;
         b=c;
-        System.out.println("after swapping number 1 is :"+a+"and number 2 is :"+b);
+        System.out.println("after swapping number 1 is :"+a+" and number 2 is :"+b);
 }
 }
