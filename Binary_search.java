@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class Binary_search {
     public static void main(String[] args) {
-        System.out.println("the number you want to find is at " + binarySearch());
+        System.out.println("the number you want to find is at index " + binarySearch());
     }
     static int binarySearch(){
         Scanner input = new Scanner(System.in);
