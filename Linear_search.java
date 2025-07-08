@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Binary_search {
+public class Linear_search {
     public static void main(String[] args) {
         System.out.println("the number you want to find is at index " + binarySearch());
     }
